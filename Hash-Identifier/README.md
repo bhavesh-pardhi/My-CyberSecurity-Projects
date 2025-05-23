@@ -122,5 +122,3 @@ This project is licensed under the MIT License — use it freely for educational
 ---
 
 ## ✨ Made with ❤️ by [Bhavesh Pardhi](https://github.com/bhavesh-pardhi)
-
-```
