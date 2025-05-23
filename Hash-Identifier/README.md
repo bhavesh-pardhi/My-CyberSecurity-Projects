@@ -49,6 +49,9 @@ Output:
 - MD5
 ```
 
+![hash identifier](hash-identifier.png)
+
+
 ---
 
 ## 🧠 How It Works
