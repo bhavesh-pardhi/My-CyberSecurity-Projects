@@ -20,8 +20,9 @@ This tool allows you to scan either the **top 1000 common ports** or **all 65535
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/bhavesh-pardhi/port-scanner.git
-cd port-scanner
+git clone https://github.com/bhavesh-pardhi/My-CyberSecurity-Projects.git
+cd My-CyberSecurity-Projects
+cd Port Scanner
 pip install colorama
 ````
 
