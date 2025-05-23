@@ -85,7 +85,7 @@ git clone https://github.com/bhavesh-pardhi/My-CyberSecurity-Projects
 cd My-CyberSecurity-Projects/Subdomain-Finder
 ````
 
-2. **Edit `subdomains.txt`**
+2. **Edit `subdomains.txt` (Optional)**
    Add or remove subdomain names you want to check.
 
 Example contents:
@@ -98,8 +98,6 @@ dev
 blog
 support
 ```
-
-ADD YOUR SUBDOMAINS
 
 3. **Run the Script**
 
